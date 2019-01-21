@@ -1,3 +1,5 @@
+# Sponsored Search Engine
+
 Implemented:
 - Scalable architecture and data model for the most of entities
 - Auction business logic for RankByBid1 methodic (easily extendable to 3 other)
