@@ -1,0 +1,13 @@
+add 174668 test_string_174668-1
+add 174667 test_string_174667
+add 174670 test_string_174670
+add 174669 test_string_174669
+print
+remove 174667
+remove 174669
+print
+add 174668 test_string_174668-2
+print
+remove 174668
+add 174668 Тестовая_строка
+print
